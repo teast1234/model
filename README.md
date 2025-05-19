@@ -1,4 +1,4 @@
-# AB 的 GPT-sovite 模型仓库
+# AB 的 GPT-sovits 模型仓库
 
 这里是用 GPT-sovite 训练出来的模型仓库，包含语料和训练好的模型。
 
